@@ -1,0 +1,119 @@
+body{
+    margin-right:131px;
+    margin-left:131px;
+    font-family:Tahoma;
+    background-color:#1c4587;
+}
+/*
+    The default margin width is now 131px on both sides.
+    Use negative numbers to enlarge.
+    
+    Use this to get rid of margin rules:
+    
+    margin-right:-131px;
+    margin-left:-131px;
+    
+    ..\ = Back one folder
+    
+*/
+
+/*MR.STICKY!*/
+.sticky{
+    margin-right:-131px;
+    margin-left:-131px;
+    padding-right:31px;
+    padding-left:31px;
+    
+    position:sticky;
+    top:0;
+    background-color:#4a86e8;
+    font-family:;
+}
+.Cars{
+    font-size:30px;
+    text-decoration:none;
+    color:#ffffff;
+}
+.sub-body{
+    background-color:#ffffff;
+}
+.header{
+    font-size:28px;
+    padding-left:41px;
+    padding-right:41px;
+}
+.sub-header{
+    font-size:25px;
+    padding-left:51px;
+    padding-right:51px;
+}
+.subtitle{
+    color:grey;
+    font-size:10px;
+}
+.img-top{
+    max-width:55%;
+    height:auto;
+    margin-left: auto;
+    margin-right:auto;
+    display:block;
+}
+.img-right{
+    float:right;
+    height: 146px;
+}
+.img-left{
+    float:left;
+}
+.divyBody{
+    font-size:16px;
+    padding-left:89px;
+    padding-right:89px;
+    text-indent: 50px;
+    
+}
+.list-header{
+   font-size:22px; 
+   font-style:italic;
+   font-weight:bold;
+}
+.list-summary{
+    /*
+        This segment is not finish yet.
+        When I have enough time, I will go into this.
+    */
+}
+.linkfromlist{
+    /*
+        [WIP]
+    */
+}
+.mild-ex{
+    font-size:14px; 
+    padding-left:14px;
+    padding-right:14px;
+    font-style:italic;
+    font-weight:bolder;
+}
+.exception{
+    color:Red;
+}
+.bottom-section{
+    
+    margin-right:-131px;
+    margin-left:-131px;
+    padding-right:100px;
+    padding-left:100px;
+    
+    
+    /*Text-Related*/
+    font-size:21px;
+    text-align:center;
+    color:#c2c2c2; 
+}
+#a{
+    max-height:230%;
+    margin-left: auto;
+    margin-right:auto;
+    display:block;
+}
